@@ -5,9 +5,9 @@ Utilisation d'un modèle pré-entrainé sur Microsoft Azure pour la détection d
 
 ## Technologies utilisées:
 
- Microsoft Azure Translator
- curl
- script bash
+- Microsoft Azure Translator
+- curl
+- script bash
 
 ## Installation
 
