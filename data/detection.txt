@@ -1,13 +1,2 @@
-Detection de la langue avec Microsoft Azure Translator.
-ANGLAIS
-{"error":{"code":401000,"message":"The request is not authorized because credentials are missing or invalid."}}
-MANDARIN
-{"error":{"code":401000,"message":"The request is not authorized because credentials are missing or invalid."}}
-HINDI
-{"error":{"code":401000,"message":"The request is not authorized because credentials are missing or invalid."}}
-ESPAGNOL
-{"error":{"code":401000,"message":"The request is not authorized because credentials are missing or invalid."}}
-ARABE
-{"error":{"code":401000,"message":"The request is not authorized because credentials are missing or invalid."}}
-FRANCAIS
-{"error":{"code":401000,"message":"The request is not authorized because credentials are missing or invalid."}}
+ 
+[{"language":"ar","score":1.0,"isTranslationSupported":true,"isTransliterationSupported":true}]
